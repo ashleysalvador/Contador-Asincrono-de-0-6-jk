@@ -32,5 +32,3 @@ que cuenta de 0 a 6 y se reinicia automáticamente.
 | 6 | 0 1 1 0 | 6 |
 | 7 | 0 1 1 1 | Reinicio a 0 |
 
-## Cómo simularlo
-Abre `nombre-del-archivo.pdsprj` con Proteus y pulsa Play.
