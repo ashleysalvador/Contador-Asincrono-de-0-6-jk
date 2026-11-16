@@ -3,7 +3,7 @@
 Simulación en Proteus de un contador de 4 bits con flip-flops JK (74LS76)
 que cuenta de 0 a 6 y se reinicia automáticamente.
 
-![Circuito](captura-circuito.png)
+![Circuito](circuitoJK.PNG)
 
 ## Componentes
 - 4 flip-flops JK (74LS76) en modo toggle (J = K = 1)
